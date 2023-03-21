@@ -1,0 +1,13 @@
+.login{
+    height: 100vh;
+    background: rgb(238, 121, 121);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form{
+    padding: 20px;
+    width: 400px;
+    height: 500px;
+    background: rgb(97, 212, 155);
+}
